@@ -8,7 +8,7 @@ Compute pattern similalrity matrix with:
 
 
 
-Than do stats with:
+Do stats with:
 
   roi_segment_simMat_ttestSubj_storyline.m
 
