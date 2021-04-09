@@ -1,4 +1,4 @@
-Core codes used in Claire H. C. Chang, Christina Lazaridi, Yaara Yeshurun, Kenneth A. Norman, U. H. (2021). Relating the past with the present: Information integration and segregation during ongoing narrative processing. JoCN
+Core codes used in Claire H. C. Chang, Christina Lazaridi, Yaara Yeshurun, Kenneth A. Norman, U. H. (2021). Relating the past with the present: Information integration and segregation during ongoing narrative processing. JoCN.
 
 
 Compute pattern similalrity matrix with:
